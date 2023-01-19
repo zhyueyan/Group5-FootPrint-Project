@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344357908957",
+    "project_id": "footprint-bcbb6",
+    "storage_bucket": "footprint-bcbb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344357908957:android:54aeaac5351aeb18054634",
+        "android_client_info": {
+          "package_name": "com.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344357908957-n594349neah1i5ntvc5s086tn4b6ho6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_L74IZvgUD-ov6dUqjhE6MbmRg0rK8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344357908957-n594349neah1i5ntvc5s086tn4b6ho6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
